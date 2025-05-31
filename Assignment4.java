@@ -129,6 +129,13 @@ public class Assignment4 {
 
 
 //        7th Program
+//        String str="java is good language java";
+//        String srch = "java";
+//        String[] sts=str.split(" ");
+//        Map<String,Integer> gstr = new HashMap<>();
+//        for(String s:sts)
+//            gstr.put(s,gstr.getOrDefault(s,0)+1);
+//        System.out.println(gstr.get(srch));
 
 
 
